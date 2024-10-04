@@ -1,4 +1,6 @@
-Title: Generative AI-DEPI Graduation Project
+Title: Generative AI-DEPI Graduation Project - Image Captioning, Arabic Translation and Text-to-Speech (TTS) Pipeline
+
+Description: This project demonstrates a pipeline that processes an input image, generates an English caption, translates it into Arabic, and converts it into spoken Arabic audio using machine learning models
 
 sdk: gradio
 
